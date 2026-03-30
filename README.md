@@ -1,7 +1,7 @@
 # NYCU Visual Recognition using Deep Learning (2026 Spring)
 
 **Student ID:** 111550133  
-**Name:** 蔡宇炫 (Mark Tsai)
+**Name:** 蔡宇炫
 
 This repository contains the assignments and projects for the "Visual Recognition using Deep Learning" course at National Yang Ming Chiao Tung University (NYCU).
 
