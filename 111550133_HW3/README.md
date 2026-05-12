@@ -7,7 +7,7 @@
 
 This project implements an instance segmentation pipeline for identifying and delineating four types of cells (class1–class4) in colored medical microscopy images. The model is based on **Mask R-CNN** with a **ResNet-101 + FPN** backbone, trained with custom small-scale anchors (8–128 px) suited to cell-size objects. Inference uses **Test-Time Augmentation** (8 views: 4 flips × 2 scales) merged with per-class NMS to improve AP50.
 
-**Final public leaderboard score: AP50 = 0.6049 (Rank 11)**
+**Final public leaderboard score: AP50 = 0.6049**
 
 ## Environment Setup
 
