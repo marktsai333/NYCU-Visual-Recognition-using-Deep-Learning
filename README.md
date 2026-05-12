@@ -12,7 +12,7 @@ This repository contains the assignments and projects for the "Visual Recognitio
   * Please navigate to this folder for the HW1 source code, requirements, and specific documentation.
 
 * 📂 [**111550133_HW3**](./111550133_HW3/) : Instance Segmentation on Cell Microscopy Images
-  * Achieved **AP50 = 0.6049** on the CodaBench public leaderboard (Rank 11).
+  * Achieved **AP50 = 0.6049** on the CodaBench public leaderboard.
   * Mask R-CNN with ResNet-101 + FPN backbone, custom small-scale anchors, and Test-Time Augmentation (TTA).
   * Please navigate to this folder for the HW3 source code, requirements, and specific documentation.
 
