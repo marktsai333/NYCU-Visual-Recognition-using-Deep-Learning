@@ -1,0 +1,10 @@
+# PyTorch — 依你 server 的 CUDA 版本選擇安裝指令：
+# CUDA 12.4: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+# CUDA 12.8: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+torch>=2.1.0
+torchvision>=0.16.0
+
+tifffile>=2023.1.23
+numpy>=1.24.0
+pycocotools>=2.0.7
+Pillow>=9.0.0
