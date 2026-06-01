@@ -1,7 +1,7 @@
 # NYCU Visual Recognition HW4 — Image Restoration
 
 - **Student ID**: 111550133
-- **Name**: Yu-Hsuan Tsai (蔡宇炫)
+- **Name**: 蔡宇炫
 
 ---
 
